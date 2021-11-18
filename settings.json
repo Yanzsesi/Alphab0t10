@@ -5,7 +5,7 @@
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
-	"prefix": ".",
+	"prefix": "!",
 	"language":"ind",
 	"ownerNumber": "6281252961511",
 	"ownerNumberr": "6281252961511",
